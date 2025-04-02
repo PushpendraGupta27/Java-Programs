@@ -22,7 +22,6 @@ public class BasicVariablesAndOperations {
         System.out.println("area = " + area + "\n" + "perimeter = " + perimeter);
     }
 
-
     private static void avg(int a, int b, int c) {
         // Calculate the average of three numbers.
         int avg = (a + b + c) / 3;
